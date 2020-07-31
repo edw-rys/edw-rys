@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<center>✨ **edw-rys/edw-rys** ✨</center>
+
+<div style="text-align: right">✨ **edw-rys/edw-rys** ✨</div>
+
 .
 - 🌱 I’m currently learning flutter.
 - 👯 I am looking to collaborate projects of angular, nodejs, laravel, ionic with angular, web development.
