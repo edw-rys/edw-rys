@@ -7,9 +7,8 @@
 - 👯 I am looking to collaborate projects of angular, nodejs, laravel, ionic with angular, web development.
 - 💬 Ask me about javascript.
 - 📫 How to reach me: 
-  * [Edw Reyes](https://www.facebook.com/edw.rysv/) - Facebook.
+  * [Edw Reyes - Facebook](https://www.facebook.com/edw.rysv/).
   * edw-toni@hotmail.com - Correo.
-  * <a href="https://www.facebook.com/edw.rysv/" target="_blank">Ed<a>
 
 - 😄 Pronouns: 
   * Edw
