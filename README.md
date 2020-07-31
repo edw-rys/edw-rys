@@ -25,6 +25,5 @@
 
 
 ## 📚Studying
-→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/flutter.png" width="12"> Flutter <br>
-→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/ionic.png" width="12"> ionic <br>
-
+→ <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/flutter.png" width="12"> Flutter <br>
+→ <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/ionic.png" width="12"> Ionic <br>
