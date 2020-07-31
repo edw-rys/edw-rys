@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**edw-rys/edw-rys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<center>✨ **edw-rys/edw-rys** ✨</center>
 .
 - 🌱 I’m currently learning flutter.
 - 👯 I am looking to collaborate projects of angular, nodejs, laravel, ionic with angular, web development.
