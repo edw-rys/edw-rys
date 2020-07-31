@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 👯 I am looking to collaborate projects of angular, nodejs, laravel, ionic with angular, web development.
 - 💬 Ask me about javascript.
 - 📫 How to reach me: 
-* [Edw Reyes](https://www.facebook.com/edw.rysv/) - Facebook.
-* edw-toni@hotmail.com - Correo.
+  * [Edw Reyes](https://www.facebook.com/edw.rysv/) - Facebook.
+  * edw-toni@hotmail.com - Correo.
 
 - 😄 Pronouns: 
-* Edw
-* Ed
+  * Edw
+  * Ed
 
 - ⚡ Fun fact: none.
