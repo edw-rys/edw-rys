@@ -9,6 +9,7 @@
 - 📫 How to reach me: 
   * [Edw Reyes](https://www.facebook.com/edw.rysv/) - Facebook.
   * edw-toni@hotmail.com - Correo.
+  * <a href="https://www.facebook.com/edw.rysv/" target="_blank">Ed<a>
 
 - 😄 Pronouns: 
   * Edw
