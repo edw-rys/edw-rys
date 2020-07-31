@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there i am Edw Reyes👋
 
 
-<div style="text-align: center">✨ **edw-rys/edw-rys** ✨</div>
+✨ **edw-rys/edw-rys** ✨
 
 - 🌱 I’m currently learning flutter.
 - 👯 I am looking to collaborate projects of angular, nodejs, laravel, ionic with angular, web development.
