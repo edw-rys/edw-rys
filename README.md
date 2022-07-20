@@ -6,7 +6,7 @@
 - 💬 Ask me about javascript and java.
 - 📫 How to reach me: 
   * [Edw Reyes - Facebook](https://www.facebook.com/edw.rysv/).
-  * * [e-dev.net.ec](https://www.e-dev.com.ec/).
+  * * [edw-dev.com](https://edw-dev.com/).
   * edw-toni@hotmail.com - Correo.
 
 ## ⚡️Skills
