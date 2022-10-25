@@ -25,3 +25,7 @@
 ## 📚Studying
 → <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/flutter.png" width="12"> Flutter <br>
 → <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/ionic.png" width="12"> Ionic <br>
+
+
+
+![Edw's GitHub stats](https://github-readme-stats.vercel.app/api?username=edw-rys&show_icons=true&theme=gruvbox)
