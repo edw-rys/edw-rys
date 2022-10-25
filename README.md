@@ -20,11 +20,7 @@
 * <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/php.png" width="14"> Laravel <br>
 * <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/java.png" width="14"> Java <br>
 * <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/android.png" width="14"> Android <br>
-
-
-## 📚Studying
-→ <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/flutter.png" width="12"> Flutter <br>
-→ <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/ionic.png" width="12"> Ionic <br>
+* <img src="https://github.com/edw-rys/edw-rys/blob/master/.github/ionic.png" width="12"> Ionic <br>
 
 
 
